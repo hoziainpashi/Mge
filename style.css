@@ -1,3 +1,9 @@
 body { background-color: #DA77FF /* желтый */
+
+h1 { color: #FF3D2F !important; }
+h2 { color: #61F738 ;}
+h3 { color: #3868F7 ;}
+h4 { color: #FFDA39 ;}
+h5 { color: #FF45BE ;}
 }
-h1 { color: red; !important; }
+    
