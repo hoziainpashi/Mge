@@ -3,8 +3,8 @@ body {
   margin: 0;
   overflow: hidden; /* Отключить прокрутку */
   display: flex;
-  align-items: center; /* Вертикальное выравнивание */
-  justify-content: center; /* Горизонтальное выравнивание */
+width: 145%; /* Растягиваем кнопку на всю ширину */
+  box-sizing: border-box;
 }
 
 button {
