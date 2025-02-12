@@ -9,7 +9,7 @@ h5 { color: #FF45BE !important;}
 .my-button {
     background-color: #4CAF50; /* Зеленый цвет */
     color: white; /* Белый текст */
-    padding: 15px 32px; /* Отступы */
+    padding: 20px 55px; /* Отступы */
     text-align: center; /* Центрирование текста */
     font-size: 16px; /* Размер текста */
     cursor: pointer; /* Курсор при наведении */
