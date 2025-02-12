@@ -1,0 +1,13 @@
+body {
+  height: 100%;
+  margin: 0;
+  overflow: hidden; /* Отключить прокрутку */
+  display: flex;
+  align-items: center; /* Вертикальное выравнивание */
+  justify-content: center; /* Горизонтальное выравнивание */
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 18px;
+}
