@@ -1,5 +1,3 @@
-body {
-    color: red !important; 
-    color1: yellow !important;
-    background-color: #DA77FF /* желтый */
+body { background-color: #DA77FF /* желтый */
 }
+h1 { color: red; !important; }
