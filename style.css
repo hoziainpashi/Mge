@@ -1,4 +1,4 @@
-body { background-color: #DA77FF /* желтый */
+body { background-color: #DA77FF !important;
      }
 h1 { color: #FF3D2F !important; }
 h2 { color: #61F738 !important;}
