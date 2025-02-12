@@ -6,4 +6,15 @@ h3 { color: #3868F7 !important;}
 h4 { color: #FFDA39 !important;}
 h5 { color: #FF45BE !important;}
 
+.my-button {
+    background-color: #4CAF50; /* Зеленый цвет */
+    color: white; /* Белый текст */
+    padding: 15px 32px; /* Отступы */
+    text-align: center; /* Центрирование текста */
+    font-size: 16px; /* Размер текста */
+    cursor: pointer; /* Курсор при наведении */
+    border: none; /* Убираем рамку */
+    border-radius: 5px; /* Скругленные углы */
+}
+
     
