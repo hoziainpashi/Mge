@@ -6,7 +6,8 @@ h3 { color: #3868F7 !important;}
 h4 { color: #FFDA39 !important;}
 h5 { color: #FF45BE !important;}
 
-..my-button {
+
+.my-button {
   background-color: #4CAF50; /* Зеленый цвет */
   color: white; /* Белый текст */
   padding: 15px 32px; /* Отступы по вертикали и горизонтали */
