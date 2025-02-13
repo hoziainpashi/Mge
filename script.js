@@ -1,6 +1,6 @@
 // Проверка состояния
 if (localStorage.getItem("visited")) {
-  document.write("Эта страница больше не доступна.");
+  window.location.herf = "about.html";
 } else {
   localStorage.setItem("visited", "true");
 }
